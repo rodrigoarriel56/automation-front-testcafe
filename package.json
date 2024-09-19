@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/isabellalealx/automation-tests-testcafe/issues"
   },
-  "homepage": "https://github.com/isabellalealx/automation-tests-testcafe#readme"
+  "homepage": "https://github.com/isabellalealx/automation-tests-testcafe#readme",
+  "directories": {
+    "test": "tests"
+  }
 }
